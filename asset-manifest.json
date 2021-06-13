@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Kemtai-mobile-clone/static/css/main.2d0ba410.chunk.css",
-    "main.js": "/Kemtai-mobile-clone/static/js/main.8b28c128.chunk.js",
-    "main.js.map": "/Kemtai-mobile-clone/static/js/main.8b28c128.chunk.js.map",
+    "main.js": "/Kemtai-mobile-clone/static/js/main.d927f119.chunk.js",
+    "main.js.map": "/Kemtai-mobile-clone/static/js/main.d927f119.chunk.js.map",
     "runtime-main.js": "/Kemtai-mobile-clone/static/js/runtime-main.a368123d.js",
     "runtime-main.js.map": "/Kemtai-mobile-clone/static/js/runtime-main.a368123d.js.map",
-    "static/js/2.57a4b737.chunk.js": "/Kemtai-mobile-clone/static/js/2.57a4b737.chunk.js",
-    "static/js/2.57a4b737.chunk.js.map": "/Kemtai-mobile-clone/static/js/2.57a4b737.chunk.js.map",
+    "static/js/2.71afa402.chunk.js": "/Kemtai-mobile-clone/static/js/2.71afa402.chunk.js",
+    "static/js/2.71afa402.chunk.js.map": "/Kemtai-mobile-clone/static/js/2.71afa402.chunk.js.map",
     "static/js/3.ccf46567.chunk.js": "/Kemtai-mobile-clone/static/js/3.ccf46567.chunk.js",
     "static/js/3.ccf46567.chunk.js.map": "/Kemtai-mobile-clone/static/js/3.ccf46567.chunk.js.map",
     "index.html": "/Kemtai-mobile-clone/index.html",
     "static/css/main.2d0ba410.chunk.css.map": "/Kemtai-mobile-clone/static/css/main.2d0ba410.chunk.css.map",
-    "static/js/2.57a4b737.chunk.js.LICENSE.txt": "/Kemtai-mobile-clone/static/js/2.57a4b737.chunk.js.LICENSE.txt",
+    "static/js/2.71afa402.chunk.js.LICENSE.txt": "/Kemtai-mobile-clone/static/js/2.71afa402.chunk.js.LICENSE.txt",
     "static/media/Coach1.7853dd7e.jpg": "/Kemtai-mobile-clone/static/media/Coach1.7853dd7e.jpg",
     "static/media/logo.2195dd5e.svg": "/Kemtai-mobile-clone/static/media/logo.2195dd5e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a368123d.js",
-    "static/js/2.57a4b737.chunk.js",
+    "static/js/2.71afa402.chunk.js",
     "static/css/main.2d0ba410.chunk.css",
-    "static/js/main.8b28c128.chunk.js"
+    "static/js/main.d927f119.chunk.js"
   ]
 }
