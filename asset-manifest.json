@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Kemtai-mobile-clone/static/css/main.2d0ba410.chunk.css",
-    "main.js": "/Kemtai-mobile-clone/static/js/main.754d7d0c.chunk.js",
-    "main.js.map": "/Kemtai-mobile-clone/static/js/main.754d7d0c.chunk.js.map",
+    "main.js": "/Kemtai-mobile-clone/static/js/main.30200e03.chunk.js",
+    "main.js.map": "/Kemtai-mobile-clone/static/js/main.30200e03.chunk.js.map",
     "runtime-main.js": "/Kemtai-mobile-clone/static/js/runtime-main.a368123d.js",
     "runtime-main.js.map": "/Kemtai-mobile-clone/static/js/runtime-main.a368123d.js.map",
     "static/js/2.71afa402.chunk.js": "/Kemtai-mobile-clone/static/js/2.71afa402.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a368123d.js",
     "static/js/2.71afa402.chunk.js",
     "static/css/main.2d0ba410.chunk.css",
-    "static/js/main.754d7d0c.chunk.js"
+    "static/js/main.30200e03.chunk.js"
   ]
 }
